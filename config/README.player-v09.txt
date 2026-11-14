@@ -1,4 +1,4 @@
-EVAC PC LABEL v0.9.9
+EVAC PC LABEL v0.9.91
 
 开始游玩
 运行 EVAC PC LABEL.exe，选择游戏，点击“启动游戏”。
